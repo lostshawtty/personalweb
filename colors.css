@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/a2/aa/dc/a2aadcf9181f84be0d578a41dfd1b071.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1{
+    text-shadow: 5px 5px 5px grey;
+}
+h1:hover{
+    box-shadow: 5px 5px 5px grey;
+}
+h2{
+    text-shadow: 5px 5px 5px grey;
+}
+h2:hover{
+    box-shadow: 5px 5px 5px grey;
+}
+h3{
+    text-shadow: 5px 5px 5px grey;
+}
+h3:hover{
+    box-shadow: 5px 5px 5px grey;
+}
